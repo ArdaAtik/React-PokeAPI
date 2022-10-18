@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Arda",
+    "surname": "Atik",
+    "city": "Bursa",
+    "age": 24
+  },
+  {
+    "id": 2,
+    "name": "Esin",
+    "surname": "Özgören",
+    "city": "İstanbul",
+    "age": 51
+  },
+  {
+    "id": 3,
+    "name": "Aydın",
+    "surname": "Atik",
+    "city": "İspir",
+    "age": 57
+  }
+]
